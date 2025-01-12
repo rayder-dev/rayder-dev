@@ -52,7 +52,7 @@
 </div>
 <br>
 
-<!-- <img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%">  -->
+<img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%">
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
