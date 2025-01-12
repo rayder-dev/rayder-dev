@@ -51,7 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" height="150" />
 </div>
 <br>
-![Snake animation](https://raw.githubusercontent.com/hernandezraymondm/hernandezraymondm/output/github-contribution-grid-snake-dark.svg)
+
+<!-- <img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%">  -->
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
