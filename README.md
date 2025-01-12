@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/2bc935c2-72ac-4d2e-95d2-7bd7a6d46284)
+![banner](https://github.com/user-attachments/assets/59e3bfe8-037a-4992-85b2-fdd5333f9bbd)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
@@ -32,11 +32,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <a href="https://kickstop-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/eceb26ba-30a4-4ed2-897f-fa2172c630f8" alt="Kickstop" height="270" width="48%"/>
+    <img src="https://github.com/user-attachments/assets/c4c59af5-3465-451c-9b61-6475747b74c4" alt="Kickstop" height="270" width="48%"/>
   </a>
   &nbsp;
   <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4" alt="Pomodoro AI" height="270" width="48%"/>
+    <img src="https://github.com/user-attachments/assets/32d7ad66-8134-43ee-baaf-ad2ab445f270" alt="Pomodoro AI" height="270" width="48%"/>
   </a>
 </div>
 <br>
@@ -44,7 +44,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> 
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150" />
   &nbsp;
@@ -70,3 +70,6 @@ https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813
 [![Kickstop](https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813)](https://kickstop-ray.vercel.app/ "Kickstop")
 [![Pomodoro AI](https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4)](https://pomodoroai-ray.vercel.app/ "Pomodoro AI")
 -->
+
+
+
