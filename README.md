@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/59e3bfe8-037a-4992-85b2-fdd5333f9bbd)
+![banner](https://github.com/user-attachments/assets/bda4128e-f110-4c20-9d72-f9ee429db934)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
