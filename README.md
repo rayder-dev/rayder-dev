@@ -50,7 +50,6 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </div>
-<br>
 
 <img src="https://raw.githubusercontent.com/hernandezraymondm/hernandezraymondm/output/snake.svg" alt="Snake animation" />
 
