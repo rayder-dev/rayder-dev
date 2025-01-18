@@ -48,8 +48,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ayu-mirage&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
+
 
 <img src="https://raw.githubusercontent.com/hernandezraymondm/hernandezraymondm/output/snake.svg" alt="Snake animation" />
 
