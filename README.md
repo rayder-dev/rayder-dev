@@ -45,8 +45,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![hernandezraymondm's Stats](https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-![hernandezraymondm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ayu-mirage&hide_border=true)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="180" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezraymondm&theme=ayu-mirage&hide_border=true" height="180" />
+</div>
+
 
 <img src="https://raw.githubusercontent.com/hernandezraymondm/hernandezraymondm/output/snake.svg" alt="Snake animation" />
 
