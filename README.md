@@ -53,9 +53,6 @@
 
 
 <img src="https://raw.githubusercontent.com/hernandezraymondm/hernandezraymondm/output/snake.svg" alt="Snake animation" />
-
-<!-- <img src="https://ghchart.rshah.org/600094//hernandezraymondm" alt="Ray Hernandez's GitHub Contribution Chart" height="120" width="100%"> -->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -64,19 +61,6 @@
     <img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
 </div>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 
-https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813
-
-![banner](https://github.com/user-attachments/assets/f89b3135-9657-4980-b241-72c3679918b0)
-
-<img src="https://github.com/user-attachments/assets/8e5f518a-7264-4195-bafd-ceff07c81ff5" width="30">
-[![Kickstop](https://github.com/user-attachments/assets/70939f0a-c365-451d-8210-69bd1a5d2813)](https://kickstop-ray.vercel.app/ "Kickstop")
-[![Pomodoro AI](https://github.com/user-attachments/assets/3412f27c-7066-43b7-8a07-b62803a65ab4)](https://pomodoroai-ray.vercel.app/ "Pomodoro AI")
--->
 
 
 
